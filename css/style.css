@@ -1,0 +1,36 @@
+/*
+
+ar
+
+https://a3elank.com/
+*/
+  
+h2{text-align: right;
+margin-right: 40px;
+}
+h6{text-align: right;
+    margin-right: 50px;
+}
+p{text-align: right;
+    margin-right: 40px;
+}
+.pricing-tables .item span {
+    font-size:24px;
+    color: #ff695f;
+    font-weight: 700;
+    display: block;
+    margin-top: -5px;
+}
+form#contact input {
+    text-align: right;
+}
+.col-lg-3{
+    text-align: right;
+}
+.contact-us .info span a {
+    color: #ff685f;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 48px;
+    text-transform: none;
+}
